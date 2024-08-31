@@ -1,0 +1,16 @@
+wp-config.php
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/advanced-cache.php
+/wp-content/backup-db/
+/wp-content/backups/
+/wp-content/database/
+/wp-content/languages/
+/wp-content/upgrade/
+/wp-content/wp-cache-config.php
+/wp-content/wp-cache-config/
+/wp-content/wp-cache-config.php
+*.log
+*.sql
+.htaccess
+.env
